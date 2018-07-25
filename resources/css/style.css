@@ -1,15 +1,23 @@
 body {
   background-color: Black;
+  color: White;
   font-family: Verdana;
   text-align: Center;
 }
-.header {
-  color: White;
+a {
+  color: aquamarine;
 }
-.link {
-  color: Aquamarine;
-  font-size: 16px;
-}
-#main-head {
+h1 {
   font-size: 50px;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+#copyright {
+  text-align: right;
 }
